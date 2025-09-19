@@ -2,7 +2,7 @@
 
 🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.
 
-✒️ Find my writings over [here](https://astro-codeirawan.vercel.app/blog)
+✒️ Find my writings over [here](https://codeirawan.vercel.app/blog)
 
   <img align="center" alt="GIF" height="200px" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" />
 
