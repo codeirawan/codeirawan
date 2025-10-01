@@ -12,7 +12,7 @@ Always eager to learn new technologies and stay up-to-date with the latest trend
 
 **Languages and Tools:**  
 
-![My Skills](https://skillicons.dev/icons?i=laravel,php,ts,next,react,js,tailwind,vercel)
+![My Skills](https://skillicons.dev/icons?i=laravel,php,ts,next,react,js,tailwind,vscode,vercel)
 
 
 <a href='https://trakteer.id/codeirawan/tip' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
